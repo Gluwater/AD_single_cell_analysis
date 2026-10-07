@@ -1,2 +1,2 @@
 # AD_single_cell_analysis
-Scripts for processing, analyzing, and visualizing single-cell RNA-seq data reported in this manuscript.
+Single-cell RNA-seq analysis of Alzheimer's disease models and microglial Rab40b conditional knockout.
